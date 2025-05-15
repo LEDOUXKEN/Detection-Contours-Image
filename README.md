@@ -1,4 +1,4 @@
-# Détection de Contours avec Sobel, Canny et Filtrage Gaussien 🧠🖼️
+# Détection de Contours avec Sobel, Canny et Filtrage Gaussien 
 
 ## Résumé du projet
 
